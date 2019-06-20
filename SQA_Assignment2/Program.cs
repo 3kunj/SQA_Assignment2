@@ -12,8 +12,6 @@ namespace SQA_Assignment2
         {
             //define varibale for input
             string value1 = "";
-            string value2 = "";
-            string value3 = "";
             string choice = "";
             int select = 0;
             //for dimensions 
@@ -23,6 +21,7 @@ namespace SQA_Assignment2
 
             do
             {
+                //menu
                 Console.WriteLine("1. Enter triangle dimensions");
                 Console.WriteLine("2. Exit");
 
@@ -41,6 +40,7 @@ namespace SQA_Assignment2
                 switch (select)
                 {
                     case 1:
+                        //get dimensions size
                         do
                         {
                             Console.WriteLine("Please Enter Dimension 1:");
@@ -88,7 +88,7 @@ namespace SQA_Assignment2
                             }
                         }
                         while (!Int32.TryParse(value1, out int l1) || !(l1 > 0));
-
+                        //get answer from triangleSolver class
                         string answer = TriangleSolver.Analyze(line1, line2, line3);
 
                         Console.WriteLine(answer);
