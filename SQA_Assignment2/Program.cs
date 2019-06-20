@@ -17,7 +17,7 @@ namespace SQA_Assignment2
             string choice = "";
             int select = 0;
             //for dimensions 
-            int line1, line2, line3;
+            int line1=0, line2=0, line3=0;
 
 
 
@@ -89,8 +89,9 @@ namespace SQA_Assignment2
                         }
                         while (!Int32.TryParse(value1, out int l1) || !(l1 > 0));
 
+                        string answer = TriangleSolver.Analyze(line1, line2, line3);
 
-
+                        Console.WriteLine(answer);
 
                         break;
                     
