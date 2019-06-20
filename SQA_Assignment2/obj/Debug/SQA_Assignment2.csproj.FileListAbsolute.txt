@@ -1,7 +1,9 @@
 E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\bin\Debug\SQA_Assignment2.exe.config
 E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\bin\Debug\SQA_Assignment2.exe
 E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\bin\Debug\SQA_Assignment2.pdb
-E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.csprojAssemblyReference.cache
+E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\bin\Debug\nunit.framework.dll
+E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\bin\Debug\nunit.framework.xml
 E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.csproj.CoreCompileInputs.cache
+E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.csproj.CopyComplete
 E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.exe
 E:\Conestoga\W2019\Sem 2\PROG8170\Assignments\Assignment2\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.pdb

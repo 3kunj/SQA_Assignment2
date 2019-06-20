@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SQA_Assignment2\SQA_Assignment2.csproj">
+      <Project>{a0e7e9dd-6275-4d44-8a3e-2e355a80553b}</Project>
+      <Name>SQA_Assignment2</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
